@@ -1,1 +1,8 @@
 
+Introduction 00:00:00-00:02:30
+
+Download R 00:02:35-00:03:44
+
+Getting exercise files 00:03:47-00:07:15
+
+R Studio 00:07:20-
